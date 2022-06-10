@@ -1,6 +1,6 @@
 package practice_pattern;
 
-public class Pattern1_SolidRectangle {
+public class Pattern_1_SolidRectangle {
 
 	public static void main(String[] args) {
 		int m=6;

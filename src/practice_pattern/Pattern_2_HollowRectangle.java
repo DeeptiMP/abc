@@ -1,6 +1,6 @@
 package practice_pattern;
 
-public class Pattern2_HollowRectangle {
+public class Pattern_2_HollowRectangle {
 public static void main(String[] args) {
 	int m = 6;
 	int n = 20;
